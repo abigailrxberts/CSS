@@ -1,0 +1,8 @@
+.box{
+    width: 32.8%;
+    display: inline-block;
+    box-sizing: border-box;
+    background: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 15px;
+}
